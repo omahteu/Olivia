@@ -1,6 +1,6 @@
 # Olivia
 
-**Uma simples, amigavel e poderosa assistente para requisições HTTP**
+**Uma simples, amigável e poderosa assistente para requisições HTTP**
 
 - Olivia utiliza a biblioteca *requests*, tornando sua execução mais intuitiva.
 
@@ -8,7 +8,7 @@
     pip install olivia
 
 ## Métodos
-Na versão *0.3.0*, Olivia assite aos métodos *POST, GET, DELETE*
+Na versão *0.3.1*, Olivia assite aos métodos *POST, GET, DELETE*
 
 # Modo de Usar
 ## POST
